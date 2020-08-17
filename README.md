@@ -1,6 +1,6 @@
 # conf-ham-sys-2020
 Support code for 
-"Structure preserving discretization of time-reparameterized Hamiltonian systems with application to nonholonomic mechanics" 
+"Structure preserving discretization of time-reparametrized Hamiltonian systems with application to nonholonomic mechanics" 
 by Luis García Naranjo and Mats Vermeeren
 
 There are two main files corresponding to different aspects of the paper:
